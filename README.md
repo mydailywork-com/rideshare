@@ -1,3 +1,5 @@
+# rideshare
+
 # Uber Clone
 
 Full-stack Uber recreation built with React, Next.js, Firebase, styled-components, Tailwind, and Mapbox.
@@ -17,9 +19,9 @@ Then open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Development
 
-* [React](https://reactjs.org/)
-* [Next.js](https://nextjs.org/)
-* [Firebase](https://firebase.google.com/)
-* [styled-components](https://styled-components.com/)
-* [Tailwind](https://tailwindcss.com/)
-* [Mapbox](https://www.mapbox.com/)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [styled-components](https://styled-components.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [Mapbox](https://www.mapbox.com/)
