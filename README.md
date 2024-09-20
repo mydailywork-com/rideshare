@@ -1,16 +1,15 @@
 # rideshare
 
-# Uber Clone
+# RideSharing
 
-Full-stack Uber recreation built with React, Next.js, Firebase, styled-components, Tailwind, and Mapbox.
+Hexaware Rideshare application built with React, Next.js, Firebase, styled-components, Tailwind, and Mapbox.
 
 ## Getting Started
 
 First, clone the repository and run the development server:
 
 ```
-git clone git@github.com:DevlinRocha/uber-clone.git
-cd uber-clone
+git clone https://github.com/mydailywork-com/rideshare.git
 npm install
 npm run dev
 ```
